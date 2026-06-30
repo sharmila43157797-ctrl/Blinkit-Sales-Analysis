@@ -1,30 +1,30 @@
-# Blinkit Orders Data Cleaning & Visualization
+𝗕𝗹𝗶𝗻𝗸𝗶𝘁 𝗢𝗿𝗱𝗲𝗿𝘀 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 & 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻
 
-## 📌 Project Overview
+Project Overview
 This project analyzes the Blinkit Orders dataset using Python. The dataset was cleaned and visualized to understand delivery performance, payment methods, and customer order patterns.
 
-## 🛠️ Tools Used
+Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
 
-## 📂 Dataset
+Dataset
 - blinkit_orders.csv
 
-## 🔍 Data Cleaning
+Data Cleaning
 - Checked dataset information
 - Verified missing values
 - Checked duplicate records
 - Generated summary statistics
 
-## 📊 Visualizations
+Visualizations
 - Delivery Status Bar Chart
 - Payment Method Bar Chart
 - Order Total Histogram
 - Delivery Status Pie Chart
 
-## 📈 Key Insights
+Key Insights
 - The dataset contains 5000 orders.
 - No missing values were found.
 - No duplicate records were found.
@@ -32,5 +32,5 @@ This project analyzes the Blinkit Orders dataset using Python. The dataset was c
 - Payment methods used by customers were visualized.
 - Order value distribution was explored.
 
-## 🎯 Conclusion
+Conclusion
 The project demonstrates basic data cleaning and visualization using Python. It provides useful business insights from Blinkit order data.
